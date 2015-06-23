@@ -1,4 +1,4 @@
-wechat enterprise
+anychat enterprise
 =====================
 
 微信公共平台企业号版SDK

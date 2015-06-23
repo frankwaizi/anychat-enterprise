@@ -1,6 +1,6 @@
 {
-  "name": "wechat-enterprise",
-  "version": "0.0.6",
+  "name": "anychat-enterprise",
+  "version": "0.0.1",
   "description": "微信公共平台企业号版本Node库",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/node-webot/wechat-enterprise.git"
+    "url": "https://github.com/frankwaizi/anychat-enterprise.git"
   },
   "keywords": [
     "weixin",
@@ -40,7 +40,7 @@
     "istanbul": "*",
     "node-inspector": "*"
   },
-  "author": "Jackson Tian",
+  "author": "Frank Fan",
   "license": "MIT",
   "readmeFilename": "README.md",
   "directories": {
