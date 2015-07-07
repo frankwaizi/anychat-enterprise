@@ -3,6 +3,8 @@ wechat enterprise
 
 微信公共平台企业号版SDK
 
+更改依赖anychat-enterprise-api
+
 ## 模块状态
 - [![NPM version](https://badge.fury.io/js/wechat-enterprise.png)](http://badge.fury.io/js/wechat-enterprise)
 - [![Build Status](https://travis-ci.org/node-webot/wechat-enterprise.png?branch=master)](https://travis-ci.org/node-webot/wechat-enterprise)
