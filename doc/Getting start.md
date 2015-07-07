@@ -6,12 +6,12 @@
 ## Installation
 
 ```sh
-$ npm install anychat-enterprise
+$ npm install wechat-enterprise
 ```
 
 ## Usage
 ```
-var wechat = require('anychat-enterprise');
+var wechat = require('wechat-enterprise');
 var app = express();
 app.use(connect.query());
 
